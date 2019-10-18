@@ -1,0 +1,19 @@
+name: biu-python
+channels:
+  - pytorch
+  - conda-forge
+  - default
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - nltk
+  - cython
+  - jupyter
+  - nb_conda_kernels
+  - gensim
+  - spacy

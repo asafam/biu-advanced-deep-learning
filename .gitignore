@@ -1,0 +1,7 @@
+.DS_Store
+*.csv
+*.zip
+*.model
+.ipynb_checkpoints/
+.vscode/
+.data/
